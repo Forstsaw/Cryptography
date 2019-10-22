@@ -1,5 +1,5 @@
 # Cryptography
-Collections Cryptography Algorithm
+Collections of Cryptography Algorithm
 
 
 
